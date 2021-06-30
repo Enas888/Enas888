@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Enas888
+- 👀 I’m interested in biomedical engineering
+- 🌱 I’m currently learning about arduino programming and circuits
+- 💞️ I’m looking to collaborate on building circuits
+- 📫 Reach me at emadenas888@gmail.com
