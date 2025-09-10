@@ -31,9 +31,6 @@
   </pre>  
 </details>  
 
-![build](https://github.com/Enas888/Enas888/workflows/build/badge.svg)  
-![GitHub last commit](https://img.shields.io/github/last-commit/Enas888/Enas888)  
-![pv](https://pageview.vercel.app/?github_user=Enas888)  
 
 - 👋 Hi, I’m **@Enas888**  
 - 🌱 Currently researching Alzheimer’s classification using QML & DL  
