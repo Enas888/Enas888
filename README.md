@@ -2,7 +2,7 @@
 
 ### Tech Stack  
 
-- 🛠 Languages & Frameworks: Python, TensorFlow, PyTorch, Keras  
+- 🛠 Languages & Frameworks: Python, TensorFlow, Keras  
 - ⚛️ Quantum & ML: PennyLane, Qiskit, Scikit-learn  
 - 🧠 Interests: Quantum Machine Learning (QML), Deep Learning, Computer Vision, Biomedical Imaging, Data Science  
 
