@@ -1,4 +1,4 @@
-👩🏻‍💻  Biomedicl Engineer & Data Scientist
+👩🏻‍💻  Biomedical Engineer & Data Scientist
 
 ### Tech Stack  
 
