@@ -1,37 +1,76 @@
-👩🏻‍💻  Biomedical Engineer & Data Scientist
+# 👩🏻‍💻 Enas Emad  
+## Biomedical Engineer | AI Engineer | Data Scientist
 
-### Tech Stack  
+I build intelligent AI systems at the intersection of **healthcare, computer vision, and NLP**, with hands-on experience in **end-to-end ML pipelines**, **LLM-based systems**, and **medical imaging research**.
 
-- 🛠 Languages & Frameworks: Python, TensorFlow, Keras  
-- ⚛️ Quantum & ML: PennyLane, Qiskit, Scikit-learn  
-- 🧠 Interests: Quantum Machine Learning (QML), Deep Learning, Computer Vision, Biomedical Imaging, Data Science  
+---
 
-### Latest Projects, and Focus 
+## 🧠 Technical Skills
 
-- 🧬 Alzheimer’s disease classification using hybrid Quantum-Classical Neural Networks (QCNNs)  
-- 🏥 Medical image preprocessing and 3D MRI slice analysis (ADNI dataset)  
-- 📊 Transfer learning with CNNs (ResNet, DenseNet, EfficientNet) for medical imaging tasks  
+### Programming & Data
+- Python
+- NumPy, Pandas, Power BI
 
-### Learning Notes  
+### Machine Learning & Deep Learning
+- PyTorch, TensorFlow, Scikit-learn
+- Transfer Learning, CNNs, YOLO
 
-- 🔍 Exploring quantum optimization methods for healthcare applications  
-- 📈 Dimensionality reduction with autoencoders for MRI data  
-- 🧩 Multi-modal biomedical data integration with deep learning  
+### Computer Vision
+- Medical Image Analysis
+- Object Detection & Tracking
+- Image Segmentation, OpenCV
 
-### Portfolio  
+### Natural Language Processing
+- Text Classification
+- Semantic Search
+- Embeddings, RAG
+- Prompt Engineering
+- LLMs & Multi-Agent Systems (LangGraph)
 
-> *In progress — coming soon!*  
+### Deployment & Tools
+- FastAPI, Streamlit
+- FAISS, Git
 
-![Enas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Enas888&show_icons=true&theme=dracula&hide=stars,issues)  
+---
 
-<details>  
-  <summary>Click👆</summary>  
-  <pre>  
-  🚀 Passionate about AI + Quantum for Healthcare  
-  </pre>  
-</details>  
+## 🚀 Featured Projects & Focus
+
+- 🧬 **Single-cell AML classification** using YOLOv12, ResNet50, and Inception-ResNet-v2  
+- 👗 **Dressify – AI Fashion Assistant** with multimodal search (CLIP + FAISS) and LLM agents  
+- 🏥 **Medical image analysis** using transfer learning for disease detection  
+- ⚙️ **Multi-agent AI systems** for intent understanding and recommendation workflows  
+
+---
+
+## 📚 Current Interests
+
+- AI for Healthcare & Medical Imaging
+- Quantum ML
+- Multimodal AI (Text + Image)  
+- Retrieval-Augmented Generation (RAG)  
+- LLM-based Multi-Agent Architectures  
+
+---
+
+## 📈 GitHub Stats
+
+![Enas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Enas888&show_icons=true&theme=dracula&hide=stars,issues)
+
+<details>
+  <summary>More</summary>
+
+🚀 Passionate about building scalable AI systems with real-world impact,
+especially in healthcare and intelligent decision support.
 
 
-- 👋 Hi, I’m **@Enas888**  
-- 🌱 Currently researching Alzheimer’s classification using QML & DL  
-- 📫 Reach me at **emadenas888@gmail.com**  
+</details>
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: **emadenas888@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/enas-emad
+- 💻 GitHub: https://github.com/Enas888
+
+
