@@ -1,7 +1,9 @@
 # 👩🏻‍💻 Enas Emad  
-## Biomedical Engineer | AI Engineer | Data Scientist
+## Biomedical Engineer | AI Engineer | Data Scientist | Quantum ML Researcher  
 
-I build intelligent AI systems at the intersection of **healthcare, computer vision, and NLP**, with hands-on experience in **end-to-end ML pipelines**, **LLM-based systems**, and **medical imaging research**.
+I build intelligent systems at the intersection of **healthcare, artificial intelligence, and emerging quantum technologies**. My experience spans **medical imaging research, computer vision, NLP, end-to-end ML pipelines, and LLM-based systems**, with a growing focus on **quantum machine learning and optimization for healthcare applications**.  
+
+I’m particularly interested in developing innovative solutions that combine **AI and quantum computing** to solve complex real-world problems in healthcare, diagnostics, and intelligent systems.
 
 ---
 
